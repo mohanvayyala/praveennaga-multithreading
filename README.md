@@ -1,2 +1,2 @@
 # praveennaga-multithreading
- Praveen Naga Multi Threading
+ Praveen Naga MultiThreading
